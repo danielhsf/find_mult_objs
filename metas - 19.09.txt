@@ -1,0 +1,7 @@
+1) readme com comandos para instalação da versão correta do opencv (feito!)
+2) Listar opções de técnicas, com vantagens e desvantagens de cada uma delas
+3) Testar P1 e P2 (feito!)
+4) Testar match sem filtro (feito!)
+5) Testar com impressões
+6) Tentar fazer um procedimento de augmented images para gerar rotações, escalas, e filtros (feito!)
+7) Trabalhar criação de cenário
