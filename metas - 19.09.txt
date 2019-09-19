@@ -1,4 +1,6 @@
 1) readme com comandos para instalação da versão correta do opencv (feito!)
+usar o seguinte comando:
+	conda env create -f environment.yml
 2) Listar opções de técnicas, com vantagens e desvantagens de cada uma delas
 3) Testar P1 e P2 (feito!)
 4) Testar match sem filtro (feito!)
